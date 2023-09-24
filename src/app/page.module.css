@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  min-height: 100vh;
+  max-width: 1400px;
+  margin: auto;
+  padding: 25px;
+}
